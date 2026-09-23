@@ -24,9 +24,9 @@ Built the TypeScript portion of the project.
 
 ## 4. What you learned
 
-
+One problem I ran into when implementing the add task feature, was that the new task window maintained the previous task's settings instead of the default values I wanted, so I realized I had to reset the state variables back to what I wanted at the conclusion of the method. 
 
 
 ## 5. References
 
-Consulted Gemini for the HTML. 
+Consulted friends for the HTML. 
